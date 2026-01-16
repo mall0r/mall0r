@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I am Messias Junior
+# Messias Junior
 
 <p align="left">
   <i>Building the future, one commit at a time</i>
@@ -48,4 +48,5 @@ Here are some ideas to get you started:
 <!-- <div align="left">
   <img height="165" src="https://github-readme-stats-rho-two-9puqlq0ayv.vercel.app/api?username=mall0r&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&hide_rank=true&line_height=24"
 </div> -->
+
 
