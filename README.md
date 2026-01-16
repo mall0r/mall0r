@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I am
-# Messias Junior
+# I am Messias Junior
 
-**Developer front-end**  
+**Developer back-end**  
 Building the future, one commit at a time
 
 ## Stack
