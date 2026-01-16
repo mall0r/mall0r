@@ -43,7 +43,7 @@ Building the future, one commit at a time
 
 ---
 
-<div align="left">
+<!-- <div align="left">
   <img height="165" src="https://github-readme-stats-rho-two-9puqlq0ayv.vercel.app/api?username=mall0r&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&hide_rank=true&line_height=24"
-</div>
+</div> -->
 
