@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # I am Messias Junior
 
-**Developer back-end**  
 Building the future, one commit at a time
 
 ## Stack
