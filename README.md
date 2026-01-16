@@ -41,8 +41,6 @@ Building the future, one commit at a time
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=grey" alt="Figma"/></a>
 </p> -->
 
----
-
 <!-- <div align="left">
   <img height="165" src="https://github-readme-stats-rho-two-9puqlq0ayv.vercel.app/api?username=mall0r&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true&hide_rank=true&line_height=24"
 </div> -->
