@@ -1,4 +1,7 @@
-### Hi there 👋
+### <p align="left">
+###  <i>Hi there👋</i>
+### </p>
+
 
 <!--
 **mall0r/mall0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +19,10 @@ Here are some ideas to get you started:
 -->
 # I am Messias Junior
 
-Building the future, one commit at a time
+<p align="left">
+  <i>Building the future, one commit at a time</i>
+</p>
+
 
 ## Stack
 <!-- <p align="center">
