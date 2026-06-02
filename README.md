@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=grey" alt="Figma"/></a>
 </p> -->
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,bash,js,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,python,bash,html,css,figma)](https://skillicons.dev)
 
 <!-- <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=grey" alt="Python"/></a>
